@@ -1,0 +1,200 @@
+[
+  {
+    "name": "Jayesh Soni",
+    "email": "sonijayesh12345@gmail.com",
+    "mobile": 7568741653,
+    "gender": "M",
+    "branch": "IT",
+    "city": "Jaipur",
+    "dateOfBirth": "2001-05-14"
+  },
+  {
+    "name": "Jayesh Soni",
+    "email": "jayesh.jaipur@gmail.com",
+    "mobile": 9192939495,
+    "gender": "M",
+    "branch": "IT",
+    "city": "Jaipur",
+    "dateOfBirth": "2001-11-19"
+  },
+  {
+    "name": "Mukul Jangid",
+    "email": "m805809@gmail.com",
+    "mobile": 9192939496,
+    "gender": "M",
+    "branch": "IT",
+    "city": "Jaipur",
+    "dateOfBirth": "2000-02-12"
+  },
+  {
+    "name": "Khushi Jain",
+    "email": "kj1218@gmail.com",
+    "mobile": 9192939497,
+    "gender": "F",
+    "branch": "IT",
+    "city": "Jaipur",
+    "dateOfBirth": "2001-12-18"
+  },
+  {
+    "name": "Rajat Vyas",
+    "email": "rv03@gmail.com",
+    "mobile": 7568741652,
+    "gender": "M",
+    "branch": "CSE",
+    "city": "Jaipur",
+    "dateOfBirth": "2000-11-03"
+  },
+  {
+    "name": "Mayank Gupta",
+    "email": "mg09@gmail.com",
+    "mobile": 7568741654,
+    "gender": "M",
+    "branch": "IT",
+    "city": "Srinagar",
+    "dateOfBirth": "2001-02-09"
+  },
+  {
+    "name": "Shubhanshu Singhal",
+    "email": "singhals@gmail.com",
+    "mobile": 7568741658,
+    "gender": "M",
+    "branch": "CE",
+    "city": "Noida",
+    "dateOfBirth": "2000-02-03"
+  },
+  {
+    "name": "Akshita Jain",
+    "email": "akku@gmail.com",
+    "mobile": 7568741651,
+    "gender": "F",
+    "branch": "CE",
+    "city": "Jaipur",
+    "dateOfBirth": "2001-10-28"
+  },
+  {
+    "name": "Tisha Chauhan",
+    "email": "tisha@gmail.com",
+    "mobile": 7568741623,
+    "gender": "F",
+    "branch": "ME",
+    "city": "Sikar",
+    "dateOfBirth": "2001-03-11"
+  },
+  {
+    "name": "Gauravi Kumari",
+    "email": "gk12@gmail.com",
+    "mobile": 7568741823,
+    "gender": "F",
+    "branch": "ECE",
+    "city": "Bikaner",
+    "dateOfBirth": "2001-02-10"
+  },
+  {
+    "name": "Jaya Sharma",
+    "email": "jks02@gmail.com",
+    "mobile": 7568731623,
+    "gender": "F",
+    "branch": "ECE",
+    "city": "Jodhapur",
+    "dateOfBirth": "2001-01-01"
+  },
+  {
+    "name": "Helly Shah",
+    "email": "hellyshah12@gmail.com",
+    "mobile": 7568741622,
+    "gender": "F",
+    "branch": "ME",
+    "city": "Jodhapur",
+    "dateOfBirth": "2001-04-17"
+  },
+  {
+    "name": "Anjali Jain",
+    "email": "ajk1234@gmail.com",
+    "mobile": 7568741643,
+    "gender": "F",
+    "branch": "EE",
+    "city": "Sikar",
+    "dateOfBirth": "2001-09-10"
+  },
+  {
+    "name": "Bhavishya Kumar",
+    "email": "bks12345@gmail.com",
+    "mobile": 7568741693,
+    "gender": "M",
+    "branch": "ME",
+    "city": "Jodhapur",
+    "dateOfBirth": "2001-11-29"
+  },
+  {
+    "name": "Rajshree Gupta",
+    "email": "rg1234@gmail.com",
+    "mobile": 7568741923,
+    "gender": "F",
+    "branch": "CSE",
+    "city": "Sikar",
+    "dateOfBirth": "2001-01-17"
+  },
+  {
+    "name": "Anubhav Chaubey",
+    "email": "ack45@gmail.com",
+    "mobile": 7561741623,
+    "gender": "M",
+    "branch": "EE",
+    "city": "Mumbai",
+    "dateOfBirth": "2001-03-14"
+  },
+  {
+    "name": "Abhinav Mishra",
+    "email": "amk789@gmail.com",
+    "mobile": 7568740623,
+    "gender": "M",
+    "branch": "EE",
+    "city": "Mumbai",
+    "dateOfBirth": "2001-05-01"
+  },
+  {
+    "name": "Hemant Sharma",
+    "email": "hs90@gmail.com",
+    "mobile": 7568941623,
+    "gender": "M",
+    "branch": "ECE",
+    "city": "Kota",
+    "dateOfBirth": "2001-09-15"
+  },
+  {
+    "name": "Pooja Sharma",
+    "email": "ps90@gmail.com",
+    "mobile": 7268941623,
+    "gender": "F",
+    "branch": "ECE",
+    "city": "Mumbai",
+    "dateOfBirth": "2001-08-17"
+  },
+  {
+    "name": "Rahul Roy",
+    "email": "rr80@gmail.com",
+    "mobile": 7561941623,
+    "gender": "M",
+    "branch": "ME",
+    "city": "Kota",
+    "dateOfBirth": "2001-07-15"
+  },
+  {
+    "name": "Daksh Verma",
+    "email": "dkv@gmail.com",
+    "mobile": 7564941623,
+    "gender": "M",
+    "branch": "CE",
+    "city": "Mumbai",
+    "dateOfBirth": "2001-04-15"
+  },
+  {
+    "name": "Manish Jaingid",
+    "email": "mtech12@gmail.com",
+    "mobile": 7568943623,
+    "gender": "M",
+    "branch": "EE",
+    "city": "Jaipur",
+    "dateOfBirth": "2001-07-12"
+  }
+]
