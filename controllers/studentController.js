@@ -72,16 +72,32 @@ exports.getAllStudents = async (req, res) => {
             data = data.select(fieldList);
         }
 
-        const page = parseInt(req.query.page) || 1;
-        const limit = parseInt(req.query.limit) || 5;
-        const skip = (page - 1) * limit;
-        data = data.skip(skip).limit(limit);
+        const page = parseInt(req.query.page);
+        const limit = parseInt(req.query.limit);
+        const startIndex = (page - 1) * limit;
+        const endIndex = page * limit;
 
-        const students = await data;
+        const results = {};
+        const totalStudents = await Student.countDocuments().exec();
+        if (endIndex < totalStudents) {
+            results.next = {
+                page: page + 1,
+                limit
+            }
+        }
+        if (startIndex > 0) {
+            results.previous = {
+                page: page - 1,
+                limit
+            }
+        }
+        data = data.skip(startIndex).limit(limit);
+
+        results.students = await data;
         res.status(200).json({
             success: true,
-            totalStudents: students.length,
-            students
+            totalStudents,
+            results
         });
     } catch (error) {
         res.status(400).json({
